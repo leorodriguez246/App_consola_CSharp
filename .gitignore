@@ -1,0 +1,57 @@
+# Visual Studio / .NET common ignores
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+*.nupkg
+*.snk
+
+# Build results
+bin/
+obj/
+
+# Visual Studio workspace
+.vs/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+.visualcode/
+
+# Logs
+*.log
+
+# Package folders
+packages/
+
+# NuGet
+project.lock.json
+project.assets.json
+.nuget/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# User-specific files
+*.userprefs
+
+# Test result files
+TestResults/
+
+# Publish output
+publish/
+
+# Others
+node_modules/
+
+# Uncomment if using JetBrains Rider cache
+# .idea/

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Proyectos\\ConsolaBasica\\ConsolaBasica.csproj",
+      "projectUniqueName": "E:\\Proyectos\\App_consola_CSharp\\ConsolaBasica.csproj",
       "projectName": "ConsolaBasica",
-      "projectPath": "E:\\Proyectos\\ConsolaBasica\\ConsolaBasica.csproj",
+      "projectPath": "E:\\Proyectos\\App_consola_CSharp\\ConsolaBasica.csproj",
       "packagesPath": "C:\\Users\\leoro\\.nuget\\packages\\",
-      "outputPath": "E:\\Proyectos\\ConsolaBasica\\obj\\",
+      "outputPath": "E:\\Proyectos\\App_consola_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
