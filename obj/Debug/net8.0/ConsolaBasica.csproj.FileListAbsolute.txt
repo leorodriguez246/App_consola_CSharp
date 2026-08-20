@@ -1,0 +1,14 @@
+E:\Proyectos\ConsolaBasica\bin\Debug\net8.0\ConsolaBasica.exe
+E:\Proyectos\ConsolaBasica\bin\Debug\net8.0\ConsolaBasica.deps.json
+E:\Proyectos\ConsolaBasica\bin\Debug\net8.0\ConsolaBasica.runtimeconfig.json
+E:\Proyectos\ConsolaBasica\bin\Debug\net8.0\ConsolaBasica.dll
+E:\Proyectos\ConsolaBasica\bin\Debug\net8.0\ConsolaBasica.pdb
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.AssemblyInfoInputs.cache
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.AssemblyInfo.cs
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.csproj.CoreCompileInputs.cache
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.dll
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\refint\ConsolaBasica.dll
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.pdb
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ConsolaBasica.genruntimeconfig.cache
+E:\Proyectos\ConsolaBasica\obj\Debug\net8.0\ref\ConsolaBasica.dll
